@@ -1,0 +1,16 @@
+html{
+    font-family: Georgia, serif, Arial;
+    font-size: large;
+}
+kw{
+    /* font-weight: bold; */
+    background-color:antiquewhite;
+}
+method{
+    font-size: xx-large;
+    font-family: Georgia, serif, Arial;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    display: block;
+    border-bottom: 1px solid black;
+}
