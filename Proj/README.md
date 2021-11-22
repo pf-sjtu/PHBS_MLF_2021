@@ -1,6 +1,10 @@
 # Discovery of investment opportunities in high-tech industries based on patent information
 
-Author: PENG Feng, JIANG Yifan
+*Author: [PENG Feng](mailto:pengf@stu.pku.edu.cn), JIANG Yifan*
+
+**Attention**: the project was originally written in python and integrated into [a .ipynb file](main.ipynb). You can quickly run our project through this single file, or find more details about the project in other files.
+
+Based on KeyBERT package: [MaartenGr/KeyBERT: Minimal keyword extraction with BERT (github.com)](https://github.com/MaartenGr/KeyBERT)
 
 # Part I Objective
 
