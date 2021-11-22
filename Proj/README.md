@@ -23,7 +23,7 @@ Using SQL queries, we can use BigQuery to do more in-depth statistical analysis,
 
 Case 1: Data has been washed. The following method is the switch to read data and, if so, to read preprocessed data from the path.
 
-Case 2： If no data is read, we do the following preprocessing steps and save the processed data.
+Case 2: If no data is read, we do the following preprocessing steps and save the processed data.
 
 Patent data contains multiple CSVS. We integrate them into one CSV and pickle for quick data loading.
 
